@@ -1,7 +1,7 @@
 {
 	"$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
   "name": "JVC-Stereo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library for controlling a JVC stereo via the steering wheel control interface",
   "keywords": "stereo, swc, jvc, kenwood",
   "repository":
@@ -19,6 +19,6 @@
   ],
   "license": "GPL-3.0-only",
   "homepage": "https://github.com/thirstyice/JVC-Stereo.git",
-  "frameworks": "*",
+  "frameworks": "Arduino",
   "platforms": "*"
 }

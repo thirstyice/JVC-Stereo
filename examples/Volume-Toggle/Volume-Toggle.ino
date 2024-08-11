@@ -1,3 +1,15 @@
+/*******************************************************************************
+* Project: JVC-Stereo                                                          *
+* Filename: /examples/Volume-Toggle/Volume-Toggle.ino                          *
+*                                                                              *
+* Created: 2023-09-08                                                          *
+* Author: thirstyice                                                           *
+*                                                                              *
+* Copyright (c) 2023-2024 Tauran - https://github.com/thirstyice               *
+* For details see JVC-Stereo/LICENSE                                           *
+*                                                                              *
+*******************************************************************************/
+
 #include <JVC-Stereo.h>
 
 #define JVC_PIN 3

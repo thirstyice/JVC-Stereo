@@ -1,3 +1,15 @@
+/*******************************************************************************
+* Project: JVC-Stereo                                                          *
+* Filename: /include/JVC-Stereo.h                                              *
+*                                                                              *
+* Created: 2023-09-08                                                          *
+* Author: thirstyice                                                           *
+*                                                                              *
+* Copyright (c) 2023-2024 Tauran - https://github.com/thirstyice               *
+* For details see JVC-Stereo/LICENSE                                           *
+*                                                                              *
+*******************************************************************************/
+
 #include <Arduino.h>
 
 #pragma once
@@ -36,4 +48,3 @@ public:
 	void setup();
 	JVCStereo(int pin);
 };
-

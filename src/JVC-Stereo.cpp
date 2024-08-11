@@ -1,6 +1,16 @@
+/*******************************************************************************
+* Project: JVC-Stereo                                                          *
+* Filename: /src/JVC-Stereo.cpp                                                *
+*                                                                              *
+* Created: 2023-09-08                                                          *
+* Author: thirstyice                                                           *
+*                                                                              *
+* Copyright (c) 2023-2024 Tauran - https://github.com/thirstyice               *
+* For details see JVC-Stereo/LICENSE                                           *
+*                                                                              *
+*******************************************************************************/
+
 #include "JVC-Stereo.h"
-
-
 
 void JVCStereo::sendOne() {
 	digitalWrite(ctrlPin, HIGH);
