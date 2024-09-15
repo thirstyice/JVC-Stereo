@@ -6,7 +6,7 @@
 * Author: thirstyice                                                           *
 *                                                                              *
 * Copyright (c) 2023-2024 Tauran - https://github.com/thirstyice               *
-* For details see JVC-Stereo/LICENSE                                           *
+* For details see JVC-Stereo/LICENSE (if applicable)                           *
 *                                                                              *
 *******************************************************************************/
 

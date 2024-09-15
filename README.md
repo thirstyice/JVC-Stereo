@@ -6,7 +6,7 @@ Only tested on my stereo (JVC KW-X840BTS), so YMMV
 
 Pull requests are welcome for other stereos
 
-Example usage:
+## Example usage:
 
 ``` c++
 #include <JVC-Stereo.h>
@@ -25,3 +25,24 @@ void loop() {
 	delay(1000);
 }
 ```
+
+## Supported commands:
+```
+JVC_VOLUP
+JVC_VOLDN
+JVC_SOURCE
+JVC_SOUND
+JVC_MUTE
+JVC_SKIPFWD
+JVC_SKIPBACK
+JVC_SCANFWD
+JVC_SCANBACK
+JVC_ANSWER
+JVC_DECLINE
+JVC_VOICE
+```
+#### NOTE:
+
+Skip + scan will also answer calls, + will put active calls on hold
+
+Voice will also decline / hang up calls
